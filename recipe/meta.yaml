@@ -35,6 +35,9 @@ about:
     enumeration is a set of symbolic names bound to unique, constant values.
     Within it, the members can be compared by identity and the enumeration
     itself can be iterated over.
+  doc_url: https://pypi.python.org/pypi/enum34
+  doc_source_url: https://bitbucket.org/stoneleaf/enum34/src/default/enum/doc/enum.rst
+  dev_url: https://bitbucket.org/stoneleaf/enum34
 
 extra:
   recipe-maintainers:
